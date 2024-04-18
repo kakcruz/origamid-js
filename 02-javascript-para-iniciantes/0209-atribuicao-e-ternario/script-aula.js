@@ -18,3 +18,6 @@ if(possuiFaculdade)
   console.log('Sim possui');
 else
   console.log('Não possui')
+
+
+  // Se chama operador ternário porque tem 3 condições -> consição ? true : false
